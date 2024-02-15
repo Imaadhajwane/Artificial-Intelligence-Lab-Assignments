@@ -11,3 +11,9 @@ c. Magic square
 a. Depth First Search 
 
 b. Breadth First Search
+
+### 3. Implement 8 puzzle problem using Hill Climbing Algorithm, choose a initial stage such that
+
+a. Algorithm terminates in a goal stage
+
+b. Algo terminates in local maxima / Plateau
