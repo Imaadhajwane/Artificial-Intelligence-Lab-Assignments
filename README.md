@@ -17,3 +17,4 @@ b. Breadth First Search
 a. Algorithm terminates in a goal stage
 
 b. Algo terminates in local maxima / Plateau
+
